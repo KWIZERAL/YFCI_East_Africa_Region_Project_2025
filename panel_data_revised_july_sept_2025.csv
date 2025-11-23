@@ -1,0 +1,25 @@
+id,nation,Month,young_reached_ministry,young_weekly,decision_jesus,responded_gospel,schools_visited
+1,Burundi,25-Jul,218,210,218,58,
+1,Burundi,25-Aug,509,N/A,509,383,
+1,Burundi,25-Sep,2403,1918,2403,471,
+2,DRC,25-Jul,353,351,303,99,2
+2,DRC,25-Aug,291,280,67,291,2
+2,DRC,25-Sep,199,199,53,53,1
+3,Ethiopia,25-Jul,1511,712,53,46,
+3,Ethiopia,25-Aug,1312,812,47,32,0
+3,Ethiopia,25-Sep,1420,892,71,32,12
+4,Kenya,25-Jul,"25,858","8,084","23,335","8,717",78
+4,Kenya,25-Aug,"7,663","1,599","5,119","4,115",7
+4,Kenya,25-Sep,6757,3023,3913,3575,26
+5,Rwanda,25-Jul,3267,2000,1284,475,8
+5,Rwanda,25-Aug,248,50,248,60,10
+5,Rwanda,25-Sep,2662,2136,1099,80,4
+6,South Sudan,25-Jul,"14,560",5400,"14,560",2380,5
+6,South Sudan,25-Aug,8900,3120,8000,3020,4
+6,South Sudan,25-Sep,5800,1780,2340,5800,5
+7,Tanzania,25-Jul,30000,7500,900,30000,6
+7,Tanzania,25-Aug,"18,000",4500,600,18000,4
+7,Tanzania,25-Sep,6000,1500,700,6000,4
+8,Uganda,25-Jul,"9,371",,"9,371","1,301",3
+8,Uganda,25-Aug,"3,258",,"3,258",602,
+8,Uganda,25-Sep,2096,,2096,61,
